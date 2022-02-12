@@ -27,8 +27,6 @@ public class MainActivity extends AppCompatActivity {
         if (str.isEmpty())
         {
             str="";
-
-
         }
         else
             {
